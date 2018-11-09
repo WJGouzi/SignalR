@@ -1,0 +1,1 @@
+../../../SignalR-ObjC/SignalR.Client/Transports/ServerSentEvents/SREventSourceRequestSerializer.h
